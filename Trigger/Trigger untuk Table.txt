@@ -1,0 +1,19 @@
+Masukan trigger ini di SQL
+(trigger ini untuk table transaksi)
+====================================
+
+--
+-- Trigger `table_detail_transaksi`
+--
+DELIMITER $$
+CREATE TRIGGER `delete` AFTER DELETE ON `table_detail_transaksi` FOR EACH ROW UPDATE table_barang tb SET tb.stok_barang = tb.stok_barang + old.qty WHERE tb.kd_barang = old.kd_barang
+$$
+DELIMITER ;
+DELIMITER $$
+CREATE TRIGGER `update1` AFTER UPDATE ON `table_detail_transaksi` FOR EACH ROW UPDATE table_barang tb SET tb.stok_barang = tb.stok_barang + old.qty WHERE tb.kd_barang = old.kd_barang
+$$
+DELIMITER ;
+DELIMITER $$
+CREATE TRIGGER `update2` BEFORE UPDATE ON `table_detail_transaksi` FOR EACH ROW UPDATE table_barang tb SET tb.stok_barang = tb.stok_barang - new.qty WHERE tb.kd_barang = new.kd_barang
+$$
+DELIMITER ;

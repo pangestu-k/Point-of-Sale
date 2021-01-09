@@ -1,0 +1,19 @@
+Pertama buat sebuah database di php mysql
+lalu ganti nama database laravel di file .env
+
+jalankan sintaks berikut :
+1. php artisan migrate
+2. php artisan db:seed 
+
+Sebelum memulai masuk ke php mysql lalu click pilhan sql 
+masukan script php yang ada di folder Trigger 
+
+jalankan projek : php artisan serve
+cara masuk ke projek : http://127.0.0.1:8000/
+
+setelah itu silakan login :
+untuk login email yg disediakan adalah email bebas yang di input di seeder
+jika ingin di custom bisa silakan mengakses file UserSeeder.php
+
+perlu di ketahui bahwa projek ini terdiri dari admin, kasir dan manager
+
