@@ -3,7 +3,7 @@
 
 ## Detail Aplikasi
 
-Hai teman-teman, ini adalah projek yang mengawali karir perjalanan saya pangestuk di dunia laravel, jadi <b>Point of Sale</b> adalah sebuah aplikasi pengelolaan jual beli yang dibangun dengan menggunakan framework Laravel, yang akan mempermudah baik kasir maupun user dalam bertransaksi, dilengkapi dengan multiple role sederhana, di aplikasi ini juga ada validasi data kok walau belum terlalu maksimal. Projek ini juga masih bisa di kembangkan kembali sesuai dengan keinginan. Syarat untuk clone projek ini simple, kalian cukup like dan follow akun github saya di https://github.com/pangestu-k , ya follow itu gratis gk si.. (¬‿¬)
+Hai teman-teman, ini adalah projek yang mengawali perjalanan saya (pangestuk) di dunia laravel, jadi <b>Point of Sale</b> adalah sebuah aplikasi pengelolaan jual beli yang dibangun dengan menggunakan framework Laravel, yang akan mempermudah baik kasir maupun user dalam bertransaksi, dilengkapi dengan multiple role sederhana, di aplikasi ini juga ada validasi data kok walau belum terlalu maksimal. Projek ini juga masih bisa di kembangkan kembali sesuai dengan keinginan. Syarat untuk clone projek ini simple, kalian cukup like dan follow akun github saya di https://github.com/pangestu-k , ya follow itu gratis gk si.. (¬‿¬)
 
 
 <h3>Tata Cara Install 🌱</h3>
