@@ -13,8 +13,9 @@ Hai teman-teman, ini adalah projek yang mengawali perjalanan saya (pangestuk) di
 - php artisan key:generate
 - php artisan storage:link 
 
-ya kalian harus baca catatan yang saya tinggalkan, karna di app ini kita
-masih pake trigger di sql, sorry saat itu masih belum paham banyak hal....
+<b>Yaaaa kalian harus baca juga catatan yang saya tinggalkan <i>(tata cara install.txt)</i></b>, karna di app ini kita
+masih pake trigger di sql, sorry saat itu masih belum paham banyak hal.... , kalau mau projek yg lebih proper bisa mampir
+ke projek Perpusku Lbrary Ap, Spp Payment App dll (tunggu aja sekarang masih belom upload2 lagi).
 
 ya intinya kalau buat pembalajaran atau sumber refrensi projek ini masih worth it kok guys.
 
