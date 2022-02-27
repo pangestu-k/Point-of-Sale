@@ -17,7 +17,7 @@ Hai teman-teman, ini adalah projek yang mengawali perjalanan saya (pangestuk) di
 masih pake trigger di sql, sorry saat itu masih belum paham banyak hal.... , kalau mau projek yg lebih proper bisa mampir
 ke projek Perpusku Library App, Spp Payment App dll (tunggu aja sekarang masih belom upload2 lagi).
 
-ya intinya kalau buat pembalajaran atau sumber refrensi projek ini masih worth it kok guys.
+ya intinya kalau buat pembelajaran atau sumber refrensi projek ini masih worth it kok guys.
 
 Jika ada pertanyaan bisa langsung tanya di Instagram saya di @rizky.pangestu17 , jangan lupa like and follow ya 😏.
 
